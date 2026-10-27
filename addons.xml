@@ -17,13 +17,14 @@
         </assets>
     </extension>
 </addon>
-<addon id="plugin.video.telestream" name="TeleStream" version="1.1.0" provider-name="TheYGN">
+<addon id="plugin.video.telestream" name="TeleStream" version="1.2.0" provider-name="TheYGN">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
     </extension>
+    <extension point="xbmc.service" library="service.py" start="login"/>
     <extension point="xbmc.addon.metadata">
         <summary lang="en_GB">Movies and series from your Telegram groups</summary>
         <summary lang="he_IL">&#1505;&#1512;&#1496;&#1497;&#1501; &#1493;&#1505;&#1491;&#1512;&#1493;&#1514; &#1502;&#1511;&#1489;&#1493;&#1510;&#1493;&#1514; &#1492;&#1496;&#1500;&#1490;&#1512;&#1501; &#1513;&#1500;&#1498;</summary>
