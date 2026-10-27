@@ -10,7 +10,7 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary lang="en_GB">Updates for the TeleStream addon</summary>
-        <summary lang="he_IL">עדכונים להרחבת טלסטרים</summary>
+        <summary lang="he_IL">&#1506;&#1491;&#1499;&#1493;&#1504;&#1497;&#1501; &#1500;&#1492;&#1512;&#1495;&#1489;&#1514; &#1496;&#1500;&#1505;&#1496;&#1512;&#1497;&#1501;</summary>
         <platform>all</platform>
         <assets>
             <icon>icon.png</icon>
@@ -26,9 +26,9 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary lang="en_GB">Movies and series from your Telegram groups</summary>
-        <summary lang="he_IL">סרטים וסדרות מקבוצות הטלגרם שלך</summary>
+        <summary lang="he_IL">&#1505;&#1512;&#1496;&#1497;&#1501; &#1493;&#1505;&#1491;&#1512;&#1493;&#1514; &#1502;&#1511;&#1489;&#1493;&#1510;&#1493;&#1514; &#1492;&#1496;&#1500;&#1490;&#1512;&#1501; &#1513;&#1500;&#1498;</summary>
         <description lang="en_GB">Plays videos from your own TeleStream server. This product uses the TMDB API but is not endorsed or certified by TMDB.</description>
-        <description lang="he_IL">מנגן סרטונים משרת הטלסטרים שבבית. המידע והפוסטרים מגיעים מ-TMDB. This product uses the TMDB API but is not endorsed or certified by TMDB.</description>
+        <description lang="he_IL">&#1502;&#1504;&#1490;&#1503; &#1505;&#1512;&#1496;&#1493;&#1504;&#1497;&#1501; &#1502;&#1513;&#1512;&#1514; &#1492;&#1496;&#1500;&#1505;&#1496;&#1512;&#1497;&#1501; &#1513;&#1489;&#1489;&#1497;&#1514;. &#1492;&#1502;&#1497;&#1491;&#1506; &#1493;&#1492;&#1508;&#1493;&#1505;&#1496;&#1512;&#1497;&#1501; &#1502;&#1490;&#1497;&#1506;&#1497;&#1501; &#1502;-TMDB. This product uses the TMDB API but is not endorsed or certified by TMDB.</description>
         <platform>all</platform>
         <license>Personal use</license>
         <assets>
